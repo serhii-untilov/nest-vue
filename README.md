@@ -1,4 +1,17 @@
-# Turborepo VueJS/NuxtJS starter
+# NestJS-VueJS
+
+## History
+
+``` bash
+npx create-turbo@latest -e with-vue-nuxt
+npm i -g @nestjs/cli
+```
+
+## References
+
+[**Microservices** - Building a Scalable Microservice Architecture for Nest.js Projects](https://medium.com/widle-studio/mastering-microservices-in-nest-js-eb143a6b9639)
+
+## Turborepo VueJS/NuxtJS starter
 
 This is an official starter Turborepo.
 
