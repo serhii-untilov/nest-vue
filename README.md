@@ -5,6 +5,8 @@
 ``` bash
 npx create-turbo@latest -e with-vue-nuxt
 npm i -g @nestjs/cli
+npx nest new ./apps/back-end
+npm i --workspace back-end --save @nestjs/microservices @nestjs/typeorm typeorm
 ```
 
 ## References
